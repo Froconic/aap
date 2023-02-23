@@ -1,1 +1,21 @@
-{"parsed":{"_path":"/art/corner-red-blue","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Corner | Red Blue II","description":null,"img":"/img/art/blue-red thin stroke.png","cover":"/img/art/blue-red thin stroke.png","alt":"Corner | Red - Blue","order":6,"category":"Corner","social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/102789408","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Corner  Red - Blue.md","_source":"content","_file":"art/Corner  Red - Blue.md","_extension":"md"},"hash":"fqt8IuaZh4"}
+---
+title: Corner | Red Blue II
+description: 
+img: /img/art/blue-red thin stroke.png
+cover: /img/art/blue-red thin stroke.png
+alt: Corner | Red - Blue
+order: 6
+category: Corner
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/102789408' class="btn btn-primary store-link">
+Redbubble
+</a>

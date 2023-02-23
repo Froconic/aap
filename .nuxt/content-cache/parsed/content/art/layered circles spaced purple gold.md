@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/layered-circles-spaced-purple-gold","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Layered Circles | Spaced Purple Gold II","description":null,"img":"/img/art/spaced purple to pink gold background.png","alt":null,"category":"Layered Circles","order":63,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/103823531","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:layered circles spaced purple gold.md","_source":"content","_file":"art/layered circles spaced purple gold.md","_extension":"md"},"hash":"1SAs1bB7rs"}
+---
+title: Layered Circles | Spaced Purple Gold II
+description: 
+img: /img/art/spaced purple to pink gold background.png
+alt: 
+category: Layered Circles
+order: 63
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/103823531' class="btn btn-primary store-link">
+Redbubble
+</a>

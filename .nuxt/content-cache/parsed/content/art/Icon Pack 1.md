@@ -1,1 +1,16 @@
-{"parsed":{"_path":"/art/icon-pack-1","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Occult Icons | Part 1","description":"Current progress in creating an occult icon pack for usage with the web","img":"/img/art/Icon Pack 1.jpg","cover":"/img/art/Icon Pack 1.jpg","category":"Misc","alt":null,"order":146,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Icon Pack 1.md","_source":"content","_file":"art/Icon Pack 1.md","_extension":"md"},"hash":"eRKwBjdlOV"}
+---
+title: Occult Icons | Part 1
+description: Current progress in creating an occult icon pack for usage with the web
+img: /img/art/Icon Pack 1.jpg
+cover: /img/art/Icon Pack 1.jpg
+category: Misc # Icons
+alt: 
+order: 146
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---

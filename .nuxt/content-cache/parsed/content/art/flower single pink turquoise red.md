@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/flower-single-pink-turquoise-red","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Flower | Single Pink Turquoise Red","description":null,"img":"/img/art/pink red turquoise single color layer.png","alt":null,"category":"Flower","order":30,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/103077650","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:flower single pink turquoise red.md","_source":"content","_file":"art/flower single pink turquoise red.md","_extension":"md"},"hash":"oYpKZ9p8lT"}
+---
+title: Flower | Single Pink Turquoise Red
+description: 
+img: /img/art/pink red turquoise single color layer.png
+alt: 
+category: Flower
+order: 30
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/103077650' class="btn btn-primary store-link">
+Redbubble
+</a>

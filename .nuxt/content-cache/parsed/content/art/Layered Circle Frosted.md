@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/layered-circle-frosted","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Layered Circles | Frosted","description":null,"img":"/img/art/frosted v1.jpg","alt":null,"category":"Layered Circles","order":47,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/103610074","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Layered Circle Frosted.md","_source":"content","_file":"art/Layered Circle Frosted.md","_extension":"md"},"hash":"CmoJljQxtM"}
+---
+title: Layered Circles | Frosted
+description: 
+img: /img/art/frosted v1.jpg
+alt: 
+category: Layered Circles
+order: 47
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/103610074' class="btn btn-primary store-link">
+Redbubble
+</a>

@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/phi-box-flower-red-blue-orange-blue","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Phi Box Flower | Red-Blue Orange-Blue","description":null,"img":"/img/art/spiral.png","alt":null,"category":"Flower","order":81,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/102890732","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:phi box flower red blue orange blue.md","_source":"content","_file":"art/phi box flower red blue orange blue.md","_extension":"md"},"hash":"B9ps9W40Cl"}
+---
+title: Phi Box Flower | Red-Blue Orange-Blue
+description: 
+img: /img/art/spiral.png
+alt: 
+category: Flower
+order: 81
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/102890732' class="btn btn-primary store-link">
+Redbubble
+</a>

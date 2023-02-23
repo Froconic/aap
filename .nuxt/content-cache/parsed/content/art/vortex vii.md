@@ -1,1 +1,15 @@
-{"parsed":{"_path":"/art/vortex-vii","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Vortex | VII","description":null,"img":"/img/art/vortex 7.png","alt":null,"category":"Vortex","order":112,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:vortex vii.md","_source":"content","_file":"art/vortex vii.md","_extension":"md"},"hash":"aNSeNDoi4S"}
+---
+title: Vortex | VII
+description: 
+img: /img/art/vortex 7.png
+alt: 
+category: Vortex
+order: 112
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---

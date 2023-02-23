@@ -1,1 +1,15 @@
-{"parsed":{"_path":"/art/garnet-i","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Character | Garnet I","description":"One of my favorite Steven Universe characters","img":"/img/art/garnet no twinkles.png","alt":null,"category":"Misc","order":38,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Garnet I.md","_source":"content","_file":"art/Garnet I.md","_extension":"md"},"hash":"l14gkNSuQR"}
+---
+title: Character | Garnet I
+description: One of my favorite Steven Universe characters
+img: /img/art/garnet no twinkles.png
+alt: 
+category: Misc
+order: 38
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---

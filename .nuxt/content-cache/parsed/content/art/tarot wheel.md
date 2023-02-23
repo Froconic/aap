@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/tarot-wheel","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Tarot Wheel","description":"This is an image I made after seeing a similar graphic in the book Chicken Qaballah by Lon Milo Duquette. It gives you an at a glance relation between tarot and astrology. I recently got a new deck that did not have these associations on them so I made this as a print out I could fold and keep with my deck.","img":"/img/art/tarot wheel.jpg","alt":null,"category":"Techno Sorcery","order":102,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/104112782","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:tarot wheel.md","_source":"content","_file":"art/tarot wheel.md","_extension":"md"},"hash":"FDFhZEGyuG"}
+---
+title: Tarot Wheel
+description: This is an image I made after seeing a similar graphic in the book Chicken Qaballah by Lon Milo Duquette. It gives you an at a glance relation between tarot and astrology. I recently got a new deck that did not have these associations on them so I made this as a print out I could fold and keep with my deck.
+img: /img/art/tarot wheel.jpg
+alt: 
+category: Techno Sorcery
+order: 102
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/104112782' class="btn btn-primary store-link">
+Redbubble
+</a>

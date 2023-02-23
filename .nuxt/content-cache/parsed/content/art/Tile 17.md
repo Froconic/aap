@@ -1,1 +1,16 @@
-{"parsed":{"_path":"/art/tile-17","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Tiles | XVII","description":"Pattern play. Gaze into the center and find out what you see","img":"/img/art/Tile 17.jpg","cover":"/img/art/Tile 17.jpg","category":"Misc","alt":null,"order":144,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Tile 17.md","_source":"content","_file":"art/Tile 17.md","_extension":"md"},"hash":"bFjJv4Puon"}
+---
+title: Tiles | XVII
+description: Pattern play. Gaze into the center and find out what you see
+img: /img/art/Tile 17.jpg
+cover: /img/art/Tile 17.jpg
+category: Misc # Tiles
+alt: 
+order: 144
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---

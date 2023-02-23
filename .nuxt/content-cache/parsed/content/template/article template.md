@@ -1,1 +1,57 @@
-{"parsed":{"_path":"/template/article-template","_dir":"template","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Article Template","description":null,"category":"Test","img":"/img/article/","cover":"/img/article/","alt":null,"avatar":"/img/Logo.jpg","avatarAlt":"Avatar here","icon":"bounding-box bounding-box-circles capslock chat5 command dot download egg fullscreen gem dice1 dice2 dice3 dice4 dice5 dice6 flower-2 hourglass journal journal-arrow-down journal-checkbox journal-code journal-plus journal-text key lamp loading moon outgoing-mail puzzle signpost signpost2 soundwave upload uploaded-file waiting","author":"Akira Allen","order":14,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:template:article template.md","_source":"content","_file":"template/article template.md","_extension":"md"},"hash":"vm6t0WUOQx"}
+---
+title: 
+description: 
+category: Test
+img: /img/article/
+cover: /img/article/
+alt: 
+avatar: /img/Logo.jpg
+avatarAlt: Avatar here
+icon:
+ bounding-box
+ bounding-box-circles
+ capslock
+ chat5
+ command
+ dot
+ download
+ egg
+ fullscreen
+ gem
+ dice1
+ dice2
+ dice3
+ dice4
+ dice5
+ dice6
+ flower-2
+ hourglass
+ journal
+ journal-arrow-down
+ journal-checkbox
+ journal-code
+ journal-plus
+ journal-text
+ key
+ lamp
+ loading
+ moon
+ outgoing-mail
+ puzzle
+ signpost
+ signpost2
+ soundwave
+ upload
+ uploaded-file
+ waiting
+author: Akira Allen
+order: 14
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+<!-- TODO Change date to manually type at the top of the article -->

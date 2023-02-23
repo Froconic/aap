@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/layered-circles-pink-purple","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Layered Circles | Pink Purple","description":null,"img":"/img/art/purple to pink.png","alt":null,"category":"Layered Circles","order":61,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/103823825","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:layered circles pink purple.md","_source":"content","_file":"art/layered circles pink purple.md","_extension":"md"},"hash":"BjUPII3mVq"}
+---
+title: Layered Circles | Pink Purple
+description: 
+img: /img/art/purple to pink.png
+alt: 
+category: Layered Circles
+order: 61
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/103823825' class="btn btn-primary store-link">
+Redbubble
+</a>

@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/layered-circles-solar-ii","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Layered Circles | Solar II","description":null,"img":"/img/art/yellow to orange sun.png","alt":null,"category":"Layered Circles","order":62,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/103824073","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Layered Circles Solar II.md","_source":"content","_file":"art/Layered Circles Solar II.md","_extension":"md"},"hash":"wKhbZtWVv5"}
+---
+title: Layered Circles | Solar II
+description: 
+img: /img/art/yellow to orange sun.png
+alt: 
+category: Layered Circles
+order: 62
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/103824073' class="btn btn-primary store-link">
+Redbubble
+</a>

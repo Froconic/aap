@@ -1,1 +1,21 @@
-{"parsed":{"_path":"/art/layered-circle-series-blue-egyptian","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Layered Circle | Blue Egyptian","description":null,"img":"/img/art/blue egyptian.png","cover":"/img/art/blue egyptian.png","alt":"Layered Circle Series | Blue Egyptian","category":"Layered Circles","order":53,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/103487430","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Layered Circle Series  Blue Egyptian.md","_source":"content","_file":"art/Layered Circle Series  Blue Egyptian.md","_extension":"md"},"hash":"c8wTtaHrqb"}
+---
+title: Layered Circle | Blue Egyptian
+description: 
+img: /img/art/blue egyptian.png
+cover: /img/art/blue egyptian.png
+alt: Layered Circle Series | Blue Egyptian
+category: Layered Circles
+order: 53
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/103487430' class="btn btn-primary store-link">
+Redbubble
+</a>

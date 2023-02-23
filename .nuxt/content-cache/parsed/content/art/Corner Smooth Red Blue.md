@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/corner-smooth-red-blue","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Corner | Smooth Red Blue","description":null,"img":"/img/art/blue-red.png","alt":"Corner | Smooth Red Blue","category":"Corner","order":16,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/102789620","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Corner Smooth Red Blue.md","_source":"content","_file":"art/Corner Smooth Red Blue.md","_extension":"md"},"hash":"fbP1Z37EHY"}
+---
+title: Corner | Smooth Red Blue
+description: 
+img: /img/art/blue-red.png
+alt: Corner | Smooth Red Blue
+category: Corner
+order: 16
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/102789620' class="btn btn-primary store-link">
+Redbubble
+</a>

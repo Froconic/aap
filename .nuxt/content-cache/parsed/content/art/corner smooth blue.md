@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/corner-smooth-blue","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Corner | Smooth Blue","description":null,"img":"/img/art/smooth blue.png","alt":null,"category":"Corner","order":15,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/102889018","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:corner smooth blue.md","_source":"content","_file":"art/corner smooth blue.md","_extension":"md"},"hash":"M0VpJ41HjK"}
+---
+title: Corner | Smooth Blue
+description: 
+img: /img/art/smooth blue.png
+alt: 
+category: Corner
+order: 15
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/102889018' class="btn btn-primary store-link">
+Redbubble
+</a>

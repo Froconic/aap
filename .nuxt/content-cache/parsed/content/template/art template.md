@@ -1,1 +1,23 @@
-{"parsed":{"_path":"/template/art-template","_dir":"template","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Art Template","description":null,"img":"/img/art/","cover":"/img/art/","category":null,"alt":null,"order":149,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with some merch"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/104528051","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:template:art template.md","_source":"content","_file":"template/art template.md","_extension":"md"},"hash":"iwQX6sP5KU"}
+---
+title: 
+description: 
+img: /img/art/
+cover: /img/art/
+category: 
+alt: 
+order: 149
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with some merch
+
+<a href='https://www.redbubble.com/shop/ap/104528051' class="btn btn-primary store-link">
+Redbubble
+</a>
+
+<!-- TODO Place corresponding links in artworks -->

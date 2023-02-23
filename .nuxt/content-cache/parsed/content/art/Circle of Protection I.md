@@ -1,1 +1,15 @@
-{"parsed":{"_path":"/art/circle-of-protection-i","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Circle of Protection | I","description":"Another version that has space in the corner to add another layer of symbolism if desired","img":"/img/art/COP v1.jpg","alt":"Circle of Protection | I","category":"Techno Sorcery","order":1,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Circle of Protection I.md","_source":"content","_file":"art/Circle of Protection I.md","_extension":"md"},"hash":"t74XRj5rAM"}
+---
+title: Circle of Protection | I
+description: Another version that has space in the corner to add another layer of symbolism if desired
+img: /img/art/COP v1.jpg
+alt: Circle of Protection | I
+category: Techno Sorcery
+order: 1
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---

@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/seed-of-life-orange-blue-iii","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Seed of life | Orange Blue III","description":null,"img":"/img/art/seed of life v4.png","alt":null,"category":"Sacred Geometry","order":98,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with a purchase"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/104418278","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:seed of life orange blue iii.md","_source":"content","_file":"art/seed of life orange blue iii.md","_extension":"md"},"hash":"p8RnIgJDO4"}
+---
+title: Seed of life | Orange Blue III
+description: 
+img: /img/art/seed of life v4.png
+alt: 
+category: Sacred Geometry
+order: 98
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with a purchase
+
+<a href='https://www.redbubble.com/shop/ap/104418278' class="btn btn-primary store-link">
+Redbubble
+</a>

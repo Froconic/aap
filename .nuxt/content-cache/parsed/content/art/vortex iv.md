@@ -1,1 +1,20 @@
-{"parsed":{"_path":"/art/vortex-iv","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":false,"title":"Vortex | IV","description":null,"img":"/img/art/vortex 4.png","alt":null,"category":"Vortex","order":109,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Like what you see? Support me with a purchase"}]},{"type":"element","tag":"a","props":{"href":"https://www.redbubble.com/shop/ap/104509912","className":["btn","btn-primary","store-link"]},"children":[{"type":"text","value":"\nRedbubble\n"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:vortex iv.md","_source":"content","_file":"art/vortex iv.md","_extension":"md"},"hash":"qN1kuhPtBR"}
+---
+title: Vortex | IV
+description: 
+img: /img/art/vortex 4.png
+alt: 
+category: Vortex
+order: 109
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---
+Like what you see? Support me with a purchase
+
+<a href='https://www.redbubble.com/shop/ap/104509912' class="btn btn-primary store-link">
+Redbubble
+</a>

@@ -1,1 +1,15 @@
-{"parsed":{"_path":"/art/rivre-of-soma-(ros)-logo-ver-ii","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"RIVRE OF SOMA (ROS) Logo ver II","description":"A draft of the logo before I settled on the current one","img":"/img/art/maybe logo.png","alt":null,"category":"Misc","order":93,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:RIVRE OF SOMA (ROS) Logo ver II.md","_source":"content","_file":"art/RIVRE OF SOMA (ROS) Logo ver II.md","_extension":"md"},"hash":"AcndYwRJEM"}
+---
+title: RIVRE OF SOMA (ROS) Logo ver II
+description: A draft of the logo before I settled on the current one
+img: /img/art/maybe logo.png
+alt: 
+category: Misc
+order: 93
+social:
+  facebook: /img/social/facebook.svg
+  instagram: /img/social/instagram.svg
+  youtube: /img/social/youtube.svg
+  facebookAlt: Facebook
+  instagramAlt: Instagram
+  youtubeAlt: Youtube
+---

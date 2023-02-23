@@ -1,15 +1,1 @@
----
-title: Patron Plane
-description: I made this to use as a focal point for my altar to honor each direction with an object in each circle
-img: /img/art/patron plane.jpg
-alt: 
-category: Techno Sorcery
-order: 79
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/patron-plane","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Patron Plane","description":"I made this to use as a focal point for my altar to honor each direction with an object in each circle","img":"/img/art/patron plane.jpg","alt":null,"category":"Techno Sorcery","order":79,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Patron Plane.md","_source":"content","_file":"art/Patron Plane.md","_extension":"md"},"hash":"r2oWn49xdr"}

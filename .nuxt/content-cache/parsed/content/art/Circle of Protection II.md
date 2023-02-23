@@ -1,15 +1,1 @@
----
-title: Circle of Protection | II
-description: Another one to utilize the 7 planets nad double up on elemetal energies
-img: /img/art/COP v2.jpg
-alt: Circle of Protection | II
-category: Techno Sorcery
-order: 2
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/circle-of-protection-ii","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Circle of Protection | II","description":"Another one to utilize the 7 planets nad double up on elemetal energies","img":"/img/art/COP v2.jpg","alt":"Circle of Protection | II","category":"Techno Sorcery","order":2,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Circle of Protection II.md","_source":"content","_file":"art/Circle of Protection II.md","_extension":"md"},"hash":"VIgJeNRUAo"}

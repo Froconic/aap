@@ -1,15 +1,1 @@
----
-title: Corner | Purple Yellow
-description: 
-img: /img/art/yellow-purple sans stroke.png
-alt: 
-category: Corner
-order: 11
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/corner-purple-yellow","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Corner | Purple Yellow","description":null,"img":"/img/art/yellow-purple sans stroke.png","alt":null,"category":"Corner","order":11,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Corner Purple Yellow.md","_source":"content","_file":"art/Corner Purple Yellow.md","_extension":"md"},"hash":"wAQSk0MWCC"}

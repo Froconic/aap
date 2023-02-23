@@ -1,15 +1,1 @@
----
-title: Diamond | II
-description: 
-img: /img/art/dark-light.png
-alt: 
-category: Misc
-order: 22
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/diamond-ii","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Diamond | II","description":null,"img":"/img/art/dark-light.png","alt":null,"category":"Misc","order":22,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Diamond II.md","_source":"content","_file":"art/Diamond II.md","_extension":"md"},"hash":"csGmWPIHMQ"}

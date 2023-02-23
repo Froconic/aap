@@ -1,15 +1,1 @@
----
-title: Untitled
-description: 
-img: /img/art/random guy.png
-alt: 
-category: Misc
-order: 105
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/untitled","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Untitled","description":null,"img":"/img/art/random guy.png","alt":null,"category":"Misc","order":105,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:untitled.md","_source":"content","_file":"art/untitled.md","_extension":"md"},"hash":"YymmVyoSOe"}

@@ -1,15 +1,1 @@
----
-title: Layered Square | I
-description: 
-img: /img/art/layered squares.png
-alt: 
-category: Layered Square
-order: 70
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/layered-square-i","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Layered Square | I","description":null,"img":"/img/art/layered squares.png","alt":null,"category":"Layered Square","order":70,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Layered Square I.md","_source":"content","_file":"art/Layered Square I.md","_extension":"md"},"hash":"HfgkRPbdu1"}

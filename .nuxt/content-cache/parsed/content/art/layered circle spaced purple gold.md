@@ -1,15 +1,1 @@
----
-title: Layered Circles | Spaced Purple Gold
-description: 
-img: /img/art/spaced purple to gold.png
-alt: 
-category: Layered Circles
-order: 55
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/layered-circle-spaced-purple-gold","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Layered Circles | Spaced Purple Gold","description":null,"img":"/img/art/spaced purple to gold.png","alt":null,"category":"Layered Circles","order":55,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:layered circle spaced purple gold.md","_source":"content","_file":"art/layered circle spaced purple gold.md","_extension":"md"},"hash":"vZZ2qbUnwU"}

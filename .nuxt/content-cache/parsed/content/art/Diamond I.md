@@ -1,15 +1,1 @@
----
-title: Diamond | I
-description: 
-img: /img/art/dark-light 2 stroke.png
-alt: 
-category: Misc
-order: 21
-social:
-  facebook: /img/social/facebook.svg
-  instagram: /img/social/instagram.svg
-  youtube: /img/social/youtube.svg
-  facebookAlt: Facebook
-  instagramAlt: Instagram
-  youtubeAlt: Youtube
----
+{"parsed":{"_path":"/art/diamond-i","_dir":"art","_draft":false,"_partial":false,"_locale":"","_empty":true,"title":"Diamond | I","description":null,"img":"/img/art/dark-light 2 stroke.png","alt":null,"category":"Misc","order":21,"social":{"facebook":"/img/social/facebook.svg","instagram":"/img/social/instagram.svg","youtube":"/img/social/youtube.svg","facebookAlt":"Facebook","instagramAlt":"Instagram","youtubeAlt":"Youtube"},"body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:art:Diamond I.md","_source":"content","_file":"art/Diamond I.md","_extension":"md"},"hash":"arciQy9hNE"}

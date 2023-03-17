@@ -1,5 +1,7 @@
 <script setup lang="ts">
 const { data: posts } = await useAsyncData('posts', () => queryContent('/art').find())
+
+
 </script>
 
 <template>

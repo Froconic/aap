@@ -20997,5 +20997,9 @@ screen and (-ms-high-contrast: none) {
   font-weight: bold;
 }
 
+.list-wrapper{
+  height: 188px;
+}
+
 /*# sourceMappingURL=theme.css.map */
 </style>

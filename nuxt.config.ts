@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/color-mode',
     'nuxt-icon',
+    '@vueuse/nuxt',
     // 'bootstrap-vue/nuxt'
   ],
 })

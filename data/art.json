@@ -1,0 +1,37 @@
+// template
+// [
+//   {
+//     "title": ,
+//     "description": ,
+//     "id": ,
+//     "img": ,
+//     "cover": ,
+//     "category": ,
+//     "alt": ,
+//     "social": ,
+//       "facebook": ,
+//       "instagram": ,
+//       "youtube": ,
+//       "facebookAlt": ,
+//       "instagramAlt": ,
+//       "youtubeAlt": ,
+//   }
+// ]
+
+[
+  {
+    "title": "Serene Backdrop | Sunset Dyed Mountainside",
+    "description": ,
+    "id": 1,
+    "img": "/img/art/sunset dyed mountainside.jpg",
+    "category": "Serene Backdrop",
+    "alt": "Sunset Dyed Mountainside",
+    "social": ,
+      "facebook": "/img/social/facebook.svg",
+      "instagram": "/img/social/instagram.svg",
+      "youtube":"/img/social/youtube.svg" ,
+      "facebookAlt": "Facebook",
+      "instagramAlt": "Instagram",
+      "youtubeAlt": "Youtube",
+  }
+]

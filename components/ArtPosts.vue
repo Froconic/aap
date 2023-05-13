@@ -23,5 +23,8 @@ const { data: posts } = await useAsyncData('posts', () => queryContent('/art').f
 <script lang="ts">
 export default {
   name: 'ArtPosts',
+  props: {
+    post: Object
+  }
 }
 </script>
